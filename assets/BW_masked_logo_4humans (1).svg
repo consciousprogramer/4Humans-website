@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1920px" height="1080px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1920 1080"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:white}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1920" y2="1080">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3E3E3E"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#3E3E3E"/>
+   <stop offset="0.309804" style="stop-opacity:1; stop-color:#919191"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#616161"/>
+   <stop offset="0.631373" style="stop-opacity:1; stop-color:#A3A3A3"/>
+   <stop offset="0.831373" style="stop-opacity:1; stop-color:darkgray"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9B9B9B"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="1920" height="1080"/>
+  <path class="fil1" d="M609.3 540l0 -259.8c0,-55.11 -45.09,-100.2 -100.2,-100.2l0 0c-55.11,0 -100.2,45.09 -100.2,100.2l0 259.8c0,55.11 45.09,100.2 100.2,100.2l0 0c55.11,0 100.2,-45.09 100.2,-100.2z"/>
+  <path class="fil1" d="M1210.5 280.2l0 519.6c0,55.11 -45.09,100.2 -100.2,100.2l0 0c-55.11,0 -100.2,-45.09 -100.2,-100.2l0 -519.6c0,-55.11 45.09,-100.2 100.2,-100.2l0 0c55.11,0 100.2,45.09 100.2,100.2z"/>
+  <path class="fil1" d="M909.9 280.2l0 519.6c0,55.11 -45.09,100.2 -100.2,100.2l0 0c-55.11,0 -100.2,-45.09 -100.2,-100.2l0 -519.6c0,-55.11 45.09,-100.2 100.2,-100.2l0 0c55.11,0 100.2,45.09 100.2,100.2z"/>
+  <path class="fil1" d="M1511.1 540l0 259.8c0,55.11 -45.09,100.2 -100.2,100.2l0 0c-55.11,0 -100.2,-45.09 -100.2,-100.2l0 -259.8c0,-55.11 45.09,-100.2 100.2,-100.2l0 0c55.11,0 100.2,45.09 100.2,100.2z"/>
+ </g>
+</svg>
